@@ -7,7 +7,7 @@ This session explores edge computing in AI for real-time decision-making, imitat
 
 ## Slides
 
-> 🔗 *Slides link coming soon*
+> 🔗 [Slides](https://github.com/NifulIslam/NAIRR-5.3/blob/main/slides/nairr5.3.pdf)
 
 ---
 
