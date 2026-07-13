@@ -29,18 +29,18 @@ git clone https://github.com/NifulIslam/NAIRR-5.3.git
 cd NAIRR-5.3
 python -m venv NAIRR-edge
 ```
+**Activate the environment:**
+
+- **Windows:** `NAIRR-edge\Scripts\activate`
+- **macOS/Linux:** `source NAIRR-edge/bin/activate`
 Make sure to install wget on your machine beforehand 
 
 ```bash
 brew install wget  
 ```
-**Activate the environment:**
-
-- **Windows:** `NAIRR-edge\Scripts\activate`
-- **macOS/Linux:** `source NAIRR-edge/bin/activate`
-
+Install the required libraries. 
 ```bash
 pip install -r requirements.txt
 ```
 
-Open in VS Code, select the `NAIRR-edge` kernel, and run.
+Open in a code editor, select the `NAIRR-edge` environment, and run.
