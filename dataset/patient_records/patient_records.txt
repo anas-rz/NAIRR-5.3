@@ -1,0 +1,18 @@
+PATIENT: John Doe (DOB 1985-03-22)
+Visit 1 (2024-01-10): Lower back strain. Prescribed Ibuprofen 600mg every 8h and Cyclobenzaprine 5mg at bedtime.
+Visit 2 (2024-01-24): Pain persists while sitting. Referred to physical therapy, 2x/week for 6 weeks.
+Visit 3 (2024-03-07): PT complete. Pain down from 7/10 to 1/10, full range of motion restored. Discharged from PT.
+
+PATIENT: Maria Santos (DOB 1978-05-14)
+Visit 1 (2024-02-05): Type 2 diabetes, HbA1c 7.8%. Started Metformin 500mg twice daily for glycemic control.
+Visit 2 (2024-05-12): HbA1c improved to 7.1%. Metformin increased to 1000mg twice daily.
+Visit 3 (2024-08-20): HbA1c 6.7%, near goal. Continue Metformin 1000mg twice daily.
+
+PATIENT: Robert Kim (DOB 1962-11-30)
+Visit 1 (2024-01-15): Hypertension (148/94), high LDL (162). Started cardiovascular risk management plan: Lisinopril 10mg daily and Atorvastatin 20mg daily.
+Visit 2 (2024-03-01): BP improved to 134/86, LDL 128. Lisinopril increased to 20mg daily.
+Visit 3 (2024-07-18): BP 122/78, LDL 96 (goal). Added Aspirin 81mg daily. Steady improvement across all visits.
+
+PATIENT: James Carter (DOB 1970-09-02)
+Visit 1 (2024-04-03): New type 2 diabetes diagnosis, HbA1c 8.4%. Started Metformin 500mg for glycemic control.
+Visit 2 (2024-07-09): HbA1c improved to 7.3%. Continue Metformin 500mg twice daily.
