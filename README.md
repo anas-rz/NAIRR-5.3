@@ -29,7 +29,11 @@ git clone https://github.com/NifulIslam/NAIRR-5.3.git
 cd NAIRR-5.3
 python -m venv NAIRR-edge
 ```
+Make sure to install wget on your machine beforehand 
 
+```bash
+brew install wget  
+```
 **Activate the environment:**
 
 - **Windows:** `NAIRR-edge\Scripts\activate`
