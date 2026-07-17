@@ -17,8 +17,8 @@ This session explores edge computing in AI for real-time decision-making, imitat
 | #  | Notebook | Topic                                              |
 | --- | -------- | -------------------------------------------------- |
 | 00 | NB01     | Agentic AI for Edge-Based Medical Decision Support |
-| 01 | NB02     | Real-Time Control and Decision-making with Edge    |
-| 02 | NB03     | End-to-End Imitation Learning on Edge Devices      |
+| 01 | NB02     | End-to-End Imitation Learning on Edge Devices    |
+| 02 | NB03     | Real-Time Control and Decision-making with Edge       |
 | 03 | NB04     | Intelligent Offloading Strategies for Edge AI      |
 
 ---
