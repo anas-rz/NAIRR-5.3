@@ -34,16 +34,7 @@ This session explores edge computing in AI for real-time decision-making, imitat
 - Illustrates the four core components of an LLM agent: agent code (LLM), memory, tools, and planning
 - Emphasizes local, private processing of sensitive clinical records with no external data transmission
 
-### NB02 — Real-Time Control and Decision-Making with Edge
-
-**Focus:** Building an edge-style forecasting and decision pipeline for volatile, real-time signals such as household energy usage.
-
-- Compares **Ridge Regression** (linear baseline), **1D-CNN** (lightweight edge model), and **GRU** (sequential model) for time-series forecasting
-- Applies robust scaling and windowed preprocessing to handle spikes and outliers in sensor telemetry
-- Implements an autonomous **Edge Controller** that simulates real-time load-shedding decisions from the model's predictions
-- Discusses deployment to low-power hardware (e.g., Raspberry Pi) via TorchScript/ONNX conversion
-
-### NB03 — End-to-End Imitation Learning on Edge Devices
+### NB02 — End-to-End Imitation Learning on Edge Devices
 
 **Focus:** Training a lightweight neural policy that maps raw sensor perception directly to robot motor commands, replacing brittle hand-written control rules.
 
@@ -51,6 +42,15 @@ This session explores edge computing in AI for real-time decision-making, imitat
 - Abstracts raw LiDAR point clouds into compact spatial bins (Front / Left / Right) to cut noise and compute cost
 - Trains and compares a baseline **MLP policy** (with dropout) against a **residual policy network** (skip connections + batch normalization)
 - Splits training data by episode, not by random step, to prevent the model from memorizing specific room layouts
+
+### NB03 — Real-Time Control and Decision-Making with Edge
+
+**Focus:** Building an edge-style forecasting and decision pipeline for volatile, real-time signals such as household energy usage.
+
+- Compares **Ridge Regression** (linear baseline), **1D-CNN** (lightweight edge model), and **GRU** (sequential model) for time-series forecasting
+- Applies robust scaling and windowed preprocessing to handle spikes and outliers in sensor telemetry
+- Implements an autonomous **Edge Controller** that simulates real-time load-shedding decisions from the model's predictions
+- Discusses deployment to low-power hardware (e.g., Raspberry Pi) via TorchScript/ONNX conversion
 
 ### NB04 — Intelligent Offloading Strategies for Edge AI
 
