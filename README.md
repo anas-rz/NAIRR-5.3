@@ -1,4 +1,4 @@
-# Lecture 05: Edge Computing in AI
+# Lecture 05.3: Edge Computing in AI
 
 **NAIRR Workshop Series 2026**
 
